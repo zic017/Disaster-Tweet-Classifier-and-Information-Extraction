@@ -1,0 +1,24 @@
+{
+  "classes": [
+    "Your classes"
+  ],
+  "annotations": [
+    [
+      "Put your dev texts here",
+      {
+        "entities": [
+          [
+            4,
+            5,
+            "NEEDS"
+          ],
+          [
+            6,
+            7,
+            "NEEDS"
+          ]
+        ]
+      }
+    ]
+  ]
+}
