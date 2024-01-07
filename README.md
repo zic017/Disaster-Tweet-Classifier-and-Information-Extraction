@@ -11,7 +11,7 @@ In a similar Kaggle competion, [Natural Language Processing with Disaster Tweets
 
 ## Roadmap
 
-- RescuExplorer.ipynb: Multiclass Classification of Disaster Tweet
+- RescuExplorer: Multiclass Classification of Disaster Tweet
     - Models used: SGD Classifier, XGBoost, Logistic Regression, BERT (PyTorch)
 
 - NER Modeling: Information Extraction from Classified Tweets
