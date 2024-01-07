@@ -14,6 +14,7 @@ The project was placed as a semi-finalist in the [Viterbi/Greif Sustainability I
 - Information Extraction from Classified Tweets
 
 - Tableau Dashboard for Disaster Visualization
+![dashboard](disaster-1.png)
 
 ## Acknowledgements
 
