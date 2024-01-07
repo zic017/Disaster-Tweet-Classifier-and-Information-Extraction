@@ -2,7 +2,17 @@
 # Disaster Tweet Classifier and Information Extraction
 
 This project consists of three main parts aimed at analyzing and visualizing disaster-related tweets. 
+The project was placed as a semi-finalist in the [Viterbi/Greif Sustainability Innovation Challenge](https://www.worldlabs.org/opportunity/viterbi-greif-innovation-challenge) and advanced into the [Min Family Engineering Social Entrepreneurship Challenge](https://viterbiundergrad.usc.edu/min/) at USC
 
+- [Presentation slides](https://www.canva.com/design/DAFx6kBuLVg/V974rHGQjIrYcxGuBh5vGA/view?utm_content=DAFx6kBuLVg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+## Roadmap
+
+- Disaster Tweet Classification and Label Prediction
+
+- Information Extraction from Classified Tweets
+
+- Tableau Dashboard for Disaster Visualization
 
 ## Acknowledgements
 
@@ -16,15 +26,6 @@ This project consists of three main parts aimed at analyzing and visualizing dis
  - https://appen.com/datasets/combined- disaster-response-data/
  - https://data.world/crowdflower/disasters- on-social-media
  - World Disaster Risk Dataset: Manually collected from pdfs of WorldRiskReport available at https://weltrisikobericht.de/weltrisikobericht-2021-e/
-
-
-## Roadmap
-
-- Disaster Tweet Classification and Label Prediction
-
-- Information Extraction from Classified Tweets
-
-- Tableau Dashboard for Disaster Visualization
 
 
 ## License
