@@ -2,9 +2,10 @@
 # Disaster Tweet Classifier and Information Extraction
 
 This project consists of three main parts aimed at analyzing and visualizing disaster-related tweets. 
+
 The project was placed as a semi-finalist in the [Viterbi/Greif Sustainability Innovation Challenge](https://www.worldlabs.org/opportunity/viterbi-greif-innovation-challenge) and advanced into the [Min Family Engineering Social Entrepreneurship Challenge](https://viterbiundergrad.usc.edu/min/) at USC
 
-- [Presentation slides](https://www.canva.com/design/DAFx6kBuLVg/V974rHGQjIrYcxGuBh5vGA/view?utm_content=DAFx6kBuLVg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Presentation Slides](https://www.canva.com/design/DAFx6kBuLVg/V974rHGQjIrYcxGuBh5vGA/view?utm_content=DAFx6kBuLVg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Roadmap
 
