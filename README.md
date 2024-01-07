@@ -7,14 +7,20 @@ The project was placed as a semi-finalist in the [Viterbi/Greif Sustainability I
 
 - [Presentation Slides](https://www.canva.com/design/DAFx6kBuLVg/V974rHGQjIrYcxGuBh5vGA/view?utm_content=DAFx6kBuLVg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+In a similar Kaggle competion, [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started), this project ranked 265/985.
+
 ## Roadmap
 
-- Disaster Tweet Classification and Label Prediction
+- RescuExplorer.ipynb: Multiclass Classification of Disaster Tweet
+    - Models used: SGD Classifier, XGBoost, Logistic Regression, BERT (PyTorch)
 
-- Information Extraction from Classified Tweets
+- NER Modeling: Information Extraction from Classified Tweets
 
-- Tableau Dashboard for Disaster Visualization
+- DashBoard: Tableau Dashboard for Disaster Visualization
 ![dashboard](disaster.png)
+
+- Kaggle Competition - Disaster Tweets: Binary Classification of Disaster Tweets
+    - Models used: Logistic Regression, DistilBERT (TensorFlow)
 
 ## Acknowledgements
 
@@ -28,6 +34,7 @@ The project was placed as a semi-finalist in the [Viterbi/Greif Sustainability I
  - https://appen.com/datasets/combined- disaster-response-data/
  - https://data.world/crowdflower/disasters- on-social-media
  - World Disaster Risk Dataset: Manually collected from pdfs of WorldRiskReport available at https://weltrisikobericht.de/weltrisikobericht-2021-e/
+ - Addison Howard, devrishi, Phil Culliton, Yufeng Guo. (2019). Natural Language Processing with Disaster Tweets. Kaggle. https://kaggle.com/competitions/nlp-getting-started
 
 
 ## License
